@@ -1,0 +1,18 @@
+{
+	"servers": [
+	  {
+		  "name": "Hypixel",
+		  "icon": "https://pbs.twimg.com/profile_images/1346968969849171970/DdNypQdN_400x400.png",
+		  "discord": "https://discord.gg/hypixel",
+		  "ip": "play.hypixel.net",
+      "port": "19132"
+	  },
+    {
+		  "name": "NetherGames",
+		  "icon": "https://pbs.twimg.com/profile_images/1268176708420730881/n91oNjSx_400x400.jpg",
+		  "discord": "https://discord.gg/ng",
+		  "ip": "play.nethergames.org",
+      "port": "19132"
+	  }
+	]
+}
