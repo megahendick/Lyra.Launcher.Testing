@@ -3,12 +3,12 @@
              { 
 		     "Title": "Example",
 		     "Body" : "This is an example of a news thing. 
-		     Below is also an example of how to add an image:
-		     {'Height':100,'Width':100,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/IMG_0755.png'}
-		     You can you pretty much any unicode character
-		     • So you can make
-		     • A list like
-		     • This one",
+Below is also an example of how to add an image:
+{'Height':100,'Width':100,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/IMG_0755.png'}
+You can you pretty much any unicode character
+• So you can make
+• A list like
+• This one",
 		     "Author":"HappenedAgain",
 		     "Date": "January 17th, 2024"
 		},
