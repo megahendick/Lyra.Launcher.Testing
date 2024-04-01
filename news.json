@@ -3,7 +3,7 @@
              { 
 		     "Title": "Example",
 		     "Body" : "This is an example of a news thing, below is also an example of how to add an image:
-{'Height':300,'Width':300,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/IMG_0755.png'}
+{'Height':200,'Width':200,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/IMG_0755.png'}
 You can you pretty much any unicode character
 • So you can make
 • A list like
