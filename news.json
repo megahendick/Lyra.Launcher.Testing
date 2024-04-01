@@ -1,12 +1,15 @@
 {
     "News": [
              { 
-		    "Title": "Launcher v2",
-		    "Body" : "As promised, Flarial Launcher v2 has been FINALLY released for PUBLIC use! {'Height':100,'Width':100,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/IMG_0757.png'}People can now experience the stunning new UI created by @happened again which now includes numerous fixes that were much needed in the past. If you are facing any issues with the launcher, please let us know through #bugs and we will fix all the issues as needed.
-{'Height':200,'Width':400,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/IMG_0757.png'}
-How do you update? The launcher has an autoupdater for the ones who are currently using the latest launcher!
-Again, thank you for the endless support, and I love you all.",
-		     "Author":"Bari",
+		     "Title": "Example",
+		     "Body" : "This is an example of a news thing. 
+		     Below is also an example of how to add an image:
+		     {'Height':100,'Width':100,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/IMG_0755.png'}
+		     You can you pretty much any unicode character
+		     • So you can make
+		     • A list like
+		     • This one",
+		     "Author":"HappenedAgain",
 		     "Date": "January 17th, 2024"
 		},
             { 
