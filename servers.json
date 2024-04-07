@@ -5,14 +5,7 @@
 			"icon": "https://images-ext-1.discordapp.net/external/AXcHlto4KRmh-5TJ3ulDAZ50RtubsVbRfYfC0E4sRsY/%3Fsize%3D4096/https/cdn.discordapp.com/icons/951979551850905650/fae7958ab2976ec5a07b89835761c4ba.png",
 			"discord": "https://discord.gg/pyDGhN6Fk3",
 			"ip": "vasar.land",
-          	"port": "19132"
-	  	},
-		{
-			"name": "PanicPvP",
-			"icon": "https://images-ext-1.discordapp.net/external/o8mpPBh1_flkTWlACOa4v-z_3BuhACTYZ2lBSAF6Tyk/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1209138267698761739/02a621901295d736abc6b3ffd8980bb4.png",
-			"discord": "https://discord.gg/EAZyZnzCwd",
-			"ip": "RXxTYqmUqHw",
-          	"port": "realm"
-		}
+          		"port": "19132"
+	  	}
 	]
 }
