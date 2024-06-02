@@ -1,0 +1,11 @@
+{
+    "Scripts":
+    [
+        {
+            "Name" : "Test",
+            "Author" : "happenedagain",
+            "Body" : "idk",
+            "Tags" : ["Combat","Hive","PvP"]
+        }
+    ]
+}
