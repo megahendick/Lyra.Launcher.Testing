@@ -2,10 +2,16 @@
     "Scripts":
     [
         {
-            "Name" : "Test",
+            "Name" : "Test 1",
             "Author" : "happenedagain",
             "Body" : "idk",
             "Tags" : ["Combat","Hive","PvP"]
+        },
+        {
+            "Name" : "Test 2",
+            "Author" : "happenedagain",
+            "Body" : "second test script thing",
+            "Tags" : ["Survival","PvE","Combat"]
         }
     ]
 }
